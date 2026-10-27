@@ -58,5 +58,5 @@ See [SECURITY.md](SECURITY.md).
 
 ---
 
-© 2026 ValarisAPP · 7 Marjanishvili street, Tbilisi, Georgia ·
+© 2026 ValarisAPP · 6 Marjanishvili street, Tbilisi, Georgia ·
 [Terms](https://valaris.app/terms.html) · [Privacy](https://valaris.app/privacy.html)
