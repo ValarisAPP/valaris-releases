@@ -3,9 +3,10 @@
 The main changes of every Valaris release. Full release notes, downloads and SHA-256 checksums are on the
 [Releases](https://github.com/ValarisAPP/valaris-releases/releases) page.
 
-## 1.6.3 — in progress
+## 1.6.3 — 29 October 2026
 - «All skills on valaris.app» from the app opens the Hub with «To the Windows app» first.
-- Website: every Hub skill gets its own page with an example request and answer.
+- Website: every Hub skill has its own page with an example request and answer.
+- Website: every page in 9 languages at its own address (valaris.app/ru/, /es/, /de/ …).
 
 ## 1.6.2 — 29 October 2026
 - **Valaris Hub in the app.** A new «Valaris Hub» tab in the «✨ Skill» window: 30 ready-made skills made and
