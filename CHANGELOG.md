@@ -3,6 +3,14 @@
 The main changes of every Valaris release. Full release notes, downloads and SHA-256 checksums are on the
 [Releases](https://github.com/ValarisAPP/valaris-releases/releases) page.
 
+## 1.6.4 — 31 October 2026
+- **Four reasoning levels** on the brain button (off, light, normal, deep) and a level per skill — pay less for simple
+  questions, think harder on difficult ones.
+- **«Continue» button** under an answer that was cut short.
+- **Agent recipes** in Valaris Hub: video from pictures and a voice-over, landing page with a check; ffmpeg for the agent.
+- A skill follows you into a new chat; Hub shows new items and the Top 10 first.
+- Website: calculator «5 subscriptions or pay per request», skill visit counters without cookies.
+
 ## 1.6.3 — 29 October 2026
 - «All skills on valaris.app» from the app opens the Hub with «To the Windows app» first.
 - Website: every Hub skill has its own page with an example request and answer.
